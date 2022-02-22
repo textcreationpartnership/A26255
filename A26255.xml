@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Memorial of His Excellency the Earl of Avaux, extraordinary ambassador from the most Christian King delivered to the States General, concerning the false interpretation, made to be the meaning of his intercepted letter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26255</idno>
+            <idno type="STC">Wing A4269</idno>
+            <idno type="STC">ESTC R38555</idno>
+            <idno type="EEBO-CITATION">17761392</idno>
+            <idno type="OCLC">ocm 17761392</idno>
+            <idno type="VID">106591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Memorial of His Excellency the Earl of Avaux, extraordinary ambassador from the most Christian King delivered to the States General, concerning the false interpretation, made to be the meaning of his intercepted letter.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Given at the Hague the 28 of Feb., 1684, and reprinted in London for Walter Davis ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; date of publication suggested by Wing.</note>
+                  <note>Imperfect: the volume in which this sheet is bound is bound tightly, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Avaux, --  comte d' --  (Jean-Antoine de Mesmes), 1640-1709. --  A memorial delivered to the States-General.</term>
+               <term>France --  Foreign relations --  Spain --  1643-1715.</term>
+               <term>Spain --  Foreign relations --  France.</term>
+               <term>Netherlands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106591:1" rendition="simple:additions"/>
+            <head>A MEMORIAL Of His EXCELLENCY The EARL AVAUX, <hi>Extraordinary Ambaſſador from the moſt Chriſtian King,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elivered to the States General, concerning the Falſe Interpre<g ref="char:EOLhyphen"/>tation, made to be the meaning of his Intercepted Letter.</head>
+            <p>THE Earl <hi>Avaux,</hi> Extraordinary Envoy of the moſt Chriſtian King, well knows, That he is not obliged to give an Account concer<g ref="char:EOLhyphen"/>ning what he hath Written to the King his Maſter: And that he is not Ignorant, That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nderſtanding People do well ſee, that the Affair, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing which, he hath informed His Maſter, can be no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udice to thoſe whom he might name, if he thought it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>venient; neither ought he to be troubled at what can <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid of that Letter, which by force was taken from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rier, of which your Lordſhips are informed. But in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard the ſaid Ambaſſador ſees, That the ſaid Letter which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad the Honour to Write his Maſter the 9th. of <hi>Janua<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, is Printed and Tranſlared into ſeveral Languages, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſpers'd among the People; He cannot for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear both <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Honour and Confcſence, to ſhew your Lordſhips the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>guery and Cheat of him that Uncyphered the Letter: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo to ſhew you, not only how Wicked, but what a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>barous Interpretation is given to it, thereby to draw <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minal Conſequences: But yet of what Nature ſoever <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are, they are as publiquely overthrown by the ſtrength <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Truth, which lyes ſcattered up and down in ſeveral <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces of the ſaid Letter.</p>
+            <p>He, the ſaid Ambaſſador, can eaſily believe, That moſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, (nay, even thoſe that have the Honour to bear a part <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Government) did (before they had ſeen a Copy of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Letter) believe, That by reaſon of the great noiſe that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h been made thereof; and of ſending it to the PRESS, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e diſpers'd among the <hi>Common People,</hi> muſt have con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed ſome dreadful Treaſon againſt this State; which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h occaſioned ſome through Ignorance, and others out <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ill Deſign, to enlarge their Diſcourſe upon this Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as if there were ſuch Matters contained in the ſaid Let<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as would make a Man's Hair ſtand up an end. But <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid Ambaſſador muſt not deſiſt here, nor alſo with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticulars of the Letter, but will lay before your Lord<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, That the only Conſtruction which can be put upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Letter, was, to ſhew your Lordſhips, by way of Memo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sentiments of His Majeſty for the Peace of this publique. As alſo, That the States General could not be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught to a Deliberation of the Proffers of His Majeſty <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout a Memorial, how Advantagious ſoever it might be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his State. That this was the Sentiment of the Lords of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſterdam,</hi> and alſo the Anſwer of your Lordſhips: (And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it was Adviſeable) the ſaid Ambaſſador took this Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, which was ſo abſolutely Neeceſſary for reſtoring the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, there being hopes, if this had been accepted, a laſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peace might have been obtained.</p>
+            <p>That the ſaid Ambaſſador well knowing the Methods that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe good Republicans took towards a Peace, might take <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Freedom without prejudicing any Man to Write to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g his Maſter, in the ſame manner as tho' thoſe good Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icans had Communicated it to him themſelves: And <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o did concerning the Conference which he had with the Deputys of <hi>Folland, Ereezland,</hi> and <hi>Groninghen:</hi> As alſo relating to the Ship <hi>REGLE,</hi> the particulars whereof he had no Information of from the Lords of <hi>Amſterdam;</hi> neither had they been in his Letter (as being of no great Importance) if a Friend of one of the Deputys of the States General, had not come and informed him when he was Writing his Letter; which was the occaſion he was not willing to forget any thing that might demonſtrate to his Maſter the Diligence of the Lords of <hi>Amſterdam,</hi> to do what they could for obtaining a Peace. This Matter being preſented to His Majeſty, ſeveral other Motives were joyn<g ref="char:EOLhyphen"/>ed with it, that ſo His Majeſty might not attempt any thing upon the <hi>Spaniſh Netherlands,</hi> which might engage the States General in a War; but that on the contrary, His Majeſty would Honour me with his Orders to preſent a New Me<g ref="char:EOLhyphen"/>morial, which made it clear to your Lordſhips; the good Diſpoſition His Majeſty had to confirm the Peace of <hi>Europe.</hi>
+            </p>
+            <p>And the aforeſaid Ambaſſador muſt obſerve to your Lordſhips, That having received no Anſwer to the two former Memorials, concerning the Methods his Maſter propoſed, for ending ſpeedily the Differences betwixt his Maſter and the Catholique King, (which was ſo great a Diſturbance to this Republique) that his Maſter intended not to preſent any more Memorials; and much leſs to ceaſe his Pretences to that juſt ſatisfaction which <hi>Spain</hi> ought to give him, in caſe your Lordſhips earneſtly endeavoured not to reſtore and procure the Peace.</p>
+            <p>And in regard the ſaid Ambaſſador did in part perceive there was a Diſpoſition in the States relating to the Peace, according to what His Majeſty expected; He, for the more ſincere Execution of His Majeſties Intentions, and Confor<g ref="char:EOLhyphen"/>mity to the Deſires which he perceived in moſt; rather for the Adjuſting of this Affair in Friendſhip then by War, did make uſe of all things which he thought convenient to report to His Majeſty, thereby the better to obtain thoſe Orders which were neceſſary for him to make known to your Lordſhips by a New Memorial, the good Inclinations His Majeſty retained for reſtoring a Peace, or at leaſt, the quiet of the <hi>Netherlands,</hi> in favour of this Republique.</p>
+            <p>The ſaid Ambaſſador queſtions not but your Lordſhips have obſerved with what ſincerity he was Authorized by ſome Members of the State (whom he thinks himſelf not obliged to name) to lay before the King his Maſter, That the States could not conſent to the Millitary Execution in the <hi>Netherlands,</hi> becauſe thereby the Citys would be depri<g ref="char:EOLhyphen"/>ved of all Subſiſtance; and that it would be the cauſe of looſing the Barreir which His Majeſty had granted to your Lordſhips; to maintain which, the ſaid Ambaſſador well knows the ſincere Intention of his Maſter: Neither did he know how to alledge ſtronger Reaſons for obtaining from His Majeſty New Orders to induce the States General to Embrace ſome of the Propoſals made for an Accomodation, before the difference grew wider.</p>
+            <pb facs="tcp:106591:2"/>
+            <p>And who is there, according to the Remarques which the ſaid Ambaſſador hath laid before your Lordſhips, that can imagine thoſe Communications which the ſiad Ambaſſador hath had with his <hi>Majeſty,</hi> thereby to ſhew him the hopes that the Differences which were ariſen in the State (the Conſe<g ref="char:EOLhyphen"/>quences of which are to be dre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded might be Friendly Adjuſted; That this ſhould be made uſe of as a Crime a<g ref="char:EOLhyphen"/>gainſt ſome Perſons in the State, whoever they are, what Pollick or what Civillian ever was of this Sentiment? And who is there which ſees not, notwithſtanding the falſe In<g ref="char:EOLhyphen"/>terpretation, which ought not to be given to that which he had the Honour to Communicate to his Maſter, that yet the Truth appears glittering in the face of the World.</p>
+            <p>The ſaid Ambaſſador can plainly ſhew to your Lordſhips, the wicked and falſe Interpretations which are put upon this Letter; but the Nonſenſe that appears, by adding ſe<g ref="char:EOLhyphen"/>veral Words, and leaving out the Praepoſition in ſeveral places, is ſufficient to ſhew the Baſeneſs of the Deſigns, to all thoſe who underſtand <hi>French.</hi> Beſides, the ſaid Am<g ref="char:EOLhyphen"/>baſſador ſees ſufficiently through the Cheat, That the chief aim was to prepoſſeſs Men before-hand, without troubling themſelves whether the Cheat would be Detected hereafter or not; But the ſaid Ambaſſador, without Ravelling into the whole, will content himſelf with diſcovering only a part of the Wicked Deſigns intended; It's ſaid in one part of this Letter ſo falſely Intercepted, thus, <hi>Viz.</hi>
+            </p>
+            <p>* <hi>That the Lords of</hi> Amſterdam <hi>were a little Allarum<g ref="char:EOLhyphen"/>ed about the Arrival pretended of</hi> 136, <hi>which aſſured the main D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſign of my Propoſals, was only to keep them up.</hi>
+            </p>
+            <p>The ſaid Ambaſſador ſees plainly, That by this ſtrange Interpretation, it ſhould be underſtood, that the pretend<g ref="char:EOLhyphen"/>ed Arrival of 136, was the <hi>Heer Ileinchias</hi> lately Arrived from <hi>France;</hi> and as if it ſhould be ſaid to him, That all that was done concerning <hi>France,</hi> was only to detain the States General: And that the Lords of <hi>Amſterdam</hi> were much Allarumed at this Diſcourſe: And this is the mean<g ref="char:EOLhyphen"/>ing which the Ambaſſador apprehends are given to theſe Words by the Interpretation: Notwithſtanding the next Words that follow, do clearly overthrow it, in regard the Ambaſſador at the ſame time aſſures the King his Maſter, Nothing can more advance his Service, then to ſhew your Lorſhips, That all things that are under debate with you, are with the greateſt Integrity in the World. This is ſo certainly True, that the ſaid Ambaſſador doth lay it as a ſure Foundation of all the Succeſs which can be hoped for from the Propoſals which his Maſter makes for reſtoring the Peace and Security of the <hi>Netherlands.</hi>
+            </p>
+            <p>The ſaid Ambaſſador need do no more then lay before you the meaning of this Baſe, Dubious, and Double-mean<g ref="char:EOLhyphen"/>ing Interpretation, to convince you of the Cheat; but yet he muſt alſo obſerve to your Lordſhips, That he knew long ago when any Important Reſolution was to be taken in the States, that then ſome of the Members always diſ<g ref="char:EOLhyphen"/>pers'd the contrary abroad, even ſuch as they would have the States conclude upon, and which beſt agreed with the Intereſt of thoſe who ſought their own ends; which the ſaid Ambaſſador obſerved at this time: For when Reaſon<g ref="char:EOLhyphen"/>able Propoſals were made by <hi>France,</hi> then a Letter was ſuppos'd to come from <hi>Paris,</hi> containing (as was ſaid) That all that was done by <hi>France,</hi> was only to keep the States in ſuſpence. This News was brought the ſaid Ambaſſador from a Member of the States whom he will not name, who often informed him of Affairs of this Nature: But tho' he eaſily ſaw the Artifice that was uſed in framing this Letter; yet it was not without leaving ſome Impreſſion upon the Lords of <hi>Amſterdam;</hi> therefore he thought himſelf obliged in thoſe terms, to Write to the King his Maſter; <hi>Viz.</hi>
+            </p>
+            <p>* <hi>That the Lords of</hi> Amſterdam <hi>were not a little Al<g ref="char:EOLhyphen"/>larumed concerning this Letter, pretended to come from</hi> Paris, <hi>which ſaith; I have no Orders to make Propoſals, but only to keep the States in Suſpenſe.</hi>
+            </p>
+            <p>Who is there that ſees not the Baſeneſs of thoſe Unci<g ref="char:EOLhyphen"/>pherers, that have left out ſeveral Words, and altred others, the better to make a Criminal Conſtruction, ſaying; <hi>That the Lords of</hi> Amſterdam <hi>are not a little Allarumed:</hi> That ſo it might be underſtood, That tho' they well knew the States were to be Cheated, yet they would perſiſt in their Deſign, which is the Vildeſt Cheat can be put upon Interpretation, which your Lordſhips may plainly perceive by the continu<g ref="char:EOLhyphen"/>ation of the Natural Senſe, which ends this Atticle; but the ſaid Ambaſſador intends to lay before your Lord another part of the Cheat, which far exceeds the fo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for in another part of the Letter it's ſaid thus; <hi>Viz.</hi>
+            </p>
+            <p>* <hi>I muſt inform Your Majesty, That thoſe who a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> inclined, have aſſumed new Courage, and told their F<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that they had not flattered them; informing them, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Majeſty would do the ſame that Your Majeſty doth in Fla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with the go d</hi> 136 <hi>and yet leſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>But in caſe there were any obſcurity in theſe Word<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould make no difficulty to Explain it, in regard th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more of Falſeneſs then Ignorance; he thinks himſelf <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obliged before he diſcover the Falſeneſs, to declare to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lordſhips, That ſince his Maſter hath began to act a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Spain</hi> to obtain the Satisfaction demanded: That he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Writ ſeveral times to His Majeſty, That all thoſe th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Inclinations to Peace, did almoſt looſe their hopes of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Peace Eſtabliſhed to this Republique, in caſe Your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>jeſty poſſeſs Your ſelf of the <hi>Netherlands,</hi> which was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be feared, in regard <hi>Spain</hi> had declared War <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>France;</hi> but that at preſent ſeeing ſo many good Diſp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons towards Peace on the ſide of His Majeſty, and ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Averſion to a War by the Principal Members of this S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> He muſt therefore inform His Majeſty:</p>
+            <p>
+               <hi>That thoſe that are well inclined re-aſſume New Cour<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> they informed their Friends that they never flattered them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is that upon which the Senſe hangs: That Your Majeſty <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do as much as He at preſent doth, in favour of the good!</hi>
+            </p>
+            <p>In caſe your Lordſhips do conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der this Paſſage (th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> altering ſeveral Words, &amp; the Expreſs Suppoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Flanders,</hi> hath quite another meaning then that of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter, for that is quite Nonſenſe;) and then your Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will with the ſame Ambaſſador acknowledge, Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deſign in this Interpretation was, to let paſs the Ad<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which have been made by His Majeſty in favour<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Peace, and to ſuppoſe the Hoſtilities that are now the <hi>Flanders:</hi> So that the Deſign was baſely to cauſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe, That the Lords of <hi>Amſterdam</hi> and the good R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>licans not only granted, but alſo, that they had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> themſelves, that Enough would be done; That is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more done then they could deſire in the Peace, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> That they had never flattered themſelves, that His <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in favour of thoſe good People, would do ſo much and ſo far, that he would prefer the Confirming the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Republique, and Security of the <hi>Netherland,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the Advantages that might be obtained by the W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Spain.</hi>
+            </p>
+            <p>There are few places in the ſaid Ambaſſadors <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where Words are not put in by Suppoſition; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leaſt part a great Alteration is made: Endeavours <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been uſed to make Senſe thereof, but cannot; for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beginning Contradicts the latter end: Beſides, Te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uſed which are not uſed in the whole Letter, as the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Expreſly</hi> and <hi>Plainly,</hi> and <hi>Your Majeſties Pleaſure;</hi> whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Words only framed, the better to force and dra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thence baſe and wicked Conſequences. But the ſaid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>baſſador hath already told your Lordſhips, That he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo little Inſtructed in the Nature of your Governme<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that he knows a particular Member can give no Se<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> As alſo, that his Maſter will accept nothing of that N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>The ſaid Ambaſſador doth now content himſelf to your Lordſhips to underſtand, the Injuſtice of ſuc<g ref="char:EOLhyphen"/>ceedings, and hath ſatisfied his Conſcience in bearing<g ref="char:EOLunhyphen"/>neſs to the good Intentions of thoſe, who made no Attempts but to come to a good Accomodation, if p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>The ſaid Ambaſſador cannot forbear to declare to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lordſhips, how much he wonders at what juſt now <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to his Information; as that 'tis pretended to draw C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>quences out of a Letter, written by an Eccleſiaſtick <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not only as prejudicial to the Sincerity of all His M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Intentions (which appears by all parts of the ſaid A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dors Letter) but alſo to the prejudice of all the P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Propoſals which His Majeſty hath made for a long ti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wards reſtoring the Peace; and eſpecially may be ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the laſt Memorial I preſented to your Lordſhips.</p>
+            <p>The ſaid Ambaſſador thinks not himſelf obliged to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to all thoſe Frivilous Reaſons, well knowing your Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have Reaſon enough to put a Slight upon all wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eccleſiaſtick hath Writ, who knows no more wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> concerning His Majeſties Affairs, then the leaſt Do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of his Houſe.</p>
+            <closer>
+               <dateline>Given in at the <hi>Hague</hi> 
+                  <date>the 28 of <hi>Feb.</hi> 1684.</date> and Reprinted in <hi>London</hi> for <hi>Walter Davis</hi> in <hi>Amen.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
